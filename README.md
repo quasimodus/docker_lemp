@@ -4,5 +4,5 @@
 В нужной директории выполнить: <code> git clone https://github.com/quasimodus/docker-lemp.git </code><br>
 Перейти в склонированный каталог <b>docker-lemp</b> со <code>stack.yml </code><br>
 Выполнить <code> $docker-compose up -d </code><br>
-В боаузере перейти по ссылке: <code> localhost </code>, должна загрузиться страница приложения<br>
+В браузере перейти по ссылке: <code> localhost </code>, должна загрузиться страница приложения<br>
 Для работы с базой, при помощи Adminer, перейти по ссылке: <code> localhost:8080 </code>
